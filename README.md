@@ -15,8 +15,8 @@
 语音交互：IBM Speech2Text，Text2Speech。<br>
 
 ## 项目结果演示
-![](./angry.jpeg)
-![](./angry.jpeg)
+![](./facial.png)
+![](./Picture1.png)<br>
 [PPT中有完整的介绍](./心音.pptx) <br>
 同时可以观看我们录制的视频:
 [音由心生](./音由心生.mov)
